@@ -93,19 +93,23 @@ endmodule
 
  
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/user-attachments/assets/ac4c9ce0-fdb9-4181-9d93-befac6a5dac7)
 
 
 **RTL :** 
+
 ![exp1 logic gate](https://github.com/user-attachments/assets/362f7eea-15ba-4389-ac7a-47178da16515)
 
 
 **OUTPUT**
+
 ![Screenshot 2024-11-12 130330](https://github.com/user-attachments/assets/ed88d882-94ab-4ec0-b7c6-17f417870153)
 
 
 **Result:**
-Hence program for logic gates and verification of  its truth table in quartus using Verilog programming is verified.
+
+ Program for logic gates and verification of its truth table in quartus using Verilog programming is verified.
 
 
 
